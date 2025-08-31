@@ -10,6 +10,17 @@ Building the future of Web · Android · Software · AI.
 
 ---
 
+## 🚀 Nex World Identity  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nex%20World-Powering%20Tomorrow-6A0DAD?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20the%20Future-Power%20Tomorrow-4B0082?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solo%20Developer-Innovator-483D8B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Powered%20Apps-2E0854?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
