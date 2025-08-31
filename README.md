@@ -41,6 +41,30 @@ I’m passionate about building **AI-powered apps, scalable websites, and powerf
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsai20082020-lgtm&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashsai20082020-lgtm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsai20082020-lgtm&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 
 - ⭐ GitHub: [avinashsai20082020-lgtm](https://github.com/avinashsai20082020-lgtm)  
